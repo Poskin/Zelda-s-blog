@@ -18,13 +18,13 @@ github_username: "6100m"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-#theme: "minima"
+theme: "minima"
 #theme: "hacker"
 
 rss: rss
 
 # remote_theme: pages-themes/midnight@v0.2.0
-remote-theme: andrewhwanpark/dark-poole
+#remote-theme: andrewhwanpark/dark-poole
 
 kramdown:
   syntax_highlighter_opts:
@@ -33,7 +33,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+ # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 titles_from_headings:
   strip_title: true
