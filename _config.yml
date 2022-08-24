@@ -18,14 +18,14 @@ github_username: "6100m"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-# theme: "minima"
+theme: "minima"
 # theme: "hacker"
 
 rss: rss
 
 # remote_theme: pages-themes/midnight@v0.2.0
 # remote-theme: andrewhwanpark/dark-poole
-remote-theme: songzivong/dark-minima
+# remote-theme: songzivong/dark-minima
 
 kramdown:
   syntax_highlighter_opts:
