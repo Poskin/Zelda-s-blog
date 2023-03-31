@@ -1,3 +1,3 @@
-I am 6100m, and I am a hacker who battles major depressive disorder, and loves his friends more than anything else in the world! <3
+I am Zelda, and I am kawaii, and I love my friends more than anything else in the world! <3
 
--6100m
+-Zelda <3
